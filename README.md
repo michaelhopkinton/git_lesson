@@ -7,3 +7,5 @@ This is a 3rd change to the file.
 
 Git is a VCS that prevents us from having the "final doc" problem.
 
+Git takes snapshots of the entire repo for us to revert back to.
+

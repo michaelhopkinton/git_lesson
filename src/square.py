@@ -3,3 +3,8 @@ def square(x):
 	"""
 	return(x**2)
 print square(4)
+
+def square2(x):
+	return (x*x)
+
+print square2(5)

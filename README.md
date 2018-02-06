@@ -7,5 +7,5 @@ This is a 3rd change to the file.
 
 Git is a VCS that prevents us from having the "final doc" problem.
 
-Git takes snapshots of the entire repo for us to revert back to(local+gitbhub/github 2nd merge change)
+Git takes snapshots of the entire repo for us to revert back to(local+gitbhub/github2/github3 merge change)
 

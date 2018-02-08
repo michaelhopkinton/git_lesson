@@ -8,3 +8,4 @@ def square2(x):
 	return (x*x)
 
 print square2(5)
+print square2(10)
